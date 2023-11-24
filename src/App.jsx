@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <h1 className='p-4 text-3xl bg-pink-700 text-white'>Theme Switcher</h1>
+    </>
   )
 }
 
